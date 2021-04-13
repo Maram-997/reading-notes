@@ -1,17 +1,9 @@
-# reading-notes
-## Growth Mindset 
-**Growth Mindset** : A Fundamental abilities can be developed through perseverance, effort and the love of learning.
-**Fixed Mindset** : suggesting that success comes from intelligence and talent, without developing or effort. 
->Growth mindset; opens pathways to more creativity and possibility.
-~~~ 
-Perseverance, gumption traps, and maintinaing a growth mindset :
-~~~
--Challenges.
--Obstacles.
--Efforts.
--Criticism.
--Success of others.
-![image](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/growth-mindset.png)
- > Always say: I'm able to achieve more and set higher goals. 😃
->  [read01](https://github.com/Maram-997/reading-notes/blob/main/read01.md)
- 
+# introduction 
+## Name: Maram Samih Abu Murad. I'm 23 Years old, graduated from Al Balqaa Applied University With a Bachlor degree in Business Administration for a GPA 3.83 of 4.
+
+
+| table of content |
+|------------------|
+|[read01](read01.md)|
+|[reado2](read02.md)|
+
