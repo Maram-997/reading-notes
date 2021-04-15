@@ -17,6 +17,7 @@
  * The logical and (&&) ; both sides should be true otherwise it returns false.
  * The logical or (||) ; one of the sides should be true at least to return as true. else it return false.
  * The logical not (!) ; this is unlike the first two, it takes one single Boolean value and convert it. like: !(2<1) the result is true.
+ ![image](and,or,not.png)
 
 
   ### Loops 
@@ -36,6 +37,7 @@
   * Initialization (i) : it acts as the counter.
   * Condition : the loop should continue to run until the counter reaches a specified number.
   * update : everything the loop has run the statement in curly braces, it add one by one to the counter (i++).
+  ![image](initialization.png)
 
   ### Three important things to know while using loops:
   - Keyword  
@@ -45,4 +47,3 @@
   once the loop has run the right number of times, the loop stops.
   - Performance:
   if the condition never returns false, you get what is commonly reffered to as an infinite loop.
-  
