@@ -11,4 +11,4 @@
 |[read04a](read04a.md)|   |
 |[read04b](read04b.md)|   |
 |[read05](read05.md)|     |
-|[read06](read06,md)|   |
+|[read06](read06.gitmd)|   |
