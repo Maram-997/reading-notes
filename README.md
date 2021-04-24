@@ -4,17 +4,15 @@
  
 
 
-| Assignments | Done/Not Yet |
-|-----------------------------|
-|[read01](read01.md)|   |
-|[reado2](read02.md)|   |
-|[read04a](read04a.md)|   |
-|[read04b](read04b.md)|   |
-|[read05](read05.md)|     |
-|[read06](read06.md)|   |
-<<<<<<< HEAD
-|[read07](read07.md)|   |
-|[read09](read09.md)|    |
-=======
-|[read07](read07.md)|   |
->>>>>>> 53aa06d5e19e659832037ba5dd48bfa83eb63528
+| Assignments  |
+|---------------------|
+|[read01](read01.md)|
+|[reado2](read02.md)|   
+|[read04a](read04a.md)|   
+|[read04b](read04b.md)|   
+|[read05](read05.md)|     
+|[read06](read06.md)|   
+|[read07](read07.md)|   
+|[read09](read09.md)|    
+| **Reading 201** | 
+|[class-01](class-01.md)|
