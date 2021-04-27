@@ -17,7 +17,8 @@
 |[read09](read09.md)|    
 | **Reading 201** | 
 |[class-01](class-01.md)|
-
+|[class-02](class-02.md)|
+|[class-03](class-03.md)|
 
 
 
