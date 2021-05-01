@@ -7,7 +7,7 @@
 * Opening tags can carry attributes, which tell us more about the content of that element.
 * Attributes require a name and a value.
 * To learn HTML you need to know what tags are available for you to use, what they do, and where they can go.
-![img](html.png)
+![img](../images/html.png)
 * DOCTYPES tell browsers which version of HTML you are using.
 * You can add comments to your code between the <!-- and --> markers.
 * The id and class attributes allow you to identify particular elements.
@@ -26,6 +26,6 @@
 * You can differentiate between pieces of information using size, color, and style.
 * You can use grouping and similarity to help simplify the information you present.
 ### JavaScript introductory
-![img](1.png)
-![img](2.png)
-![img](3.png)
+![img](../images/1.png)
+![img](../images/2.png)
+![img](../images/3.png)

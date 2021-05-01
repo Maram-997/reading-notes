@@ -10,7 +10,7 @@ element which has an attribute called href. The value of the href attribute is t
 On larger websites it's a good idea to organize your code by placing the pages for each different section of the site into a new folder. Folders on a website are sometimes referred to as directories.
 #### Relative URLS :
 Relative URLs can be used when linking to pages within your own website. They provide a shorthand way of telling the browser where to find your files.
-![img](links.png)
+![img](../images/links.png)
 #### Email links :
 * `<mailto>` : To create a link that starts up the user's email program and addresses an email to a specified email address, you use the `<a>` element. However, this time the value of the href attribute starts with mailto: and is followed by the email address you want the email to be sent to.
 #### Opening link in a window :

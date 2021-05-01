@@ -15,7 +15,7 @@ The paragraph starts on a new line after the image.
 The first row of text aligns with the bottom of the image.
 3. **in the middle of a paragraph**
 The image is placed between the words of the paragraph that it appears in.
-![img](img-placing.png)
+![img](../images/img-placing.png)
 ### Old Code: Aligning Images Horizontally
 **align** The align attribute was commonly used to indicate how the other parts of a page should flow around an image. It has been removed from HTML5 and new websites should use CSS to control the alignment of images.
 #### The align attribute can take these horizontal values:
@@ -47,7 +47,7 @@ Creating an image that is partially transparent for the web involves selecting o
 ### HTML5: Figure and Figure Caption :
 * `<figure>` Images often come with captions. HTML5 has introduced a new `<figure>` element to contain images and their caption so that the two are associated.
 * `<figurecaption>` The `<figcaption>` element has been added to HTML5 in order to allow web page authors to add a caption to an image.
-![img](caption.png)
+![img](../images/caption.png)
 
 
 ## COLOR 
@@ -61,14 +61,14 @@ of how much red, green and blue are used to make it up.are expressed as numbers 
 CSS treats each HTML element as if it appears in a box, and the background-color property sets the color of the background for that box. And You can specify your choice of background color in the same three ways you can specify foreground colors.
 #### understanding color :
 Every color on a computer screen is created by mixing amounts of red, green, and blue. To find the color you want, you can use a color picker.
-![img](colors.png)
+![img](../images/colors.png)
 
 #### Contrast :
 When picking foreground and background colors, it is important to ensure that there is enough contrast for the text to be legible.
 * Text is harder to read when there is low contrast between background and foreground colors.
 * Text is easier to read when there is higher contrast between background and foreground colors.
 * For long spans of text, reducing the contrast a little bit improves readability.
-![img](contrast.png)
+![img](../images/contrast.png)
  #### CSS3: Opacity :opacity, rgba
 CSS3 has introduced an extra value for RGB colors to indicate opacity. It is known as RGBA.
 #### CSS3: HSL & HSLA :hsl, hsla
@@ -79,11 +79,11 @@ CSS3 also allows you to specify colors as HSL values, with an optional opacity v
 * **serif** : Serif fonts have extra details on the ends of the main strokes of the letters. These details are known as serifs.`im`
 * **sans-serif** :Sans-serif fonts have straight ends to letters, and therefore have a much cleaner design.
 * **monospace** : Every letter in a monospace (or fixed-width) font is the same width. (Non-monospace fonts have different widths.)
-![img](serif.png)
+![img](../images/serif.png)
 
 #### Choosing a Typeface for your Website :
 When choosing a typeface, it is important to understand that a browser will usually only display it if it's installed on that user's computer.
-![img](serif1.png)
+![img](../images/serif1.png)
 
 #### Techniques That Offer a Wider Choice of Typefaces :
 
@@ -102,7 +102,7 @@ There are two values that this property commonly takes: (normail,bold).
 bottom,text-bottom)
 * Indenting Text(text-indent): The text-indent property allows you to indent the first line of text within an element. The amount you want the line indented by can be specified in a number of ways but is usually given in pixels or ems. it can take a negative value, which means it can be used to push text off the browser window.
 * CSS3: Drop Shadow(text-shadow): It is used to create a drop shadow, which is a dark version of the word just behind it and slightly offset. It can also be used to create an embossed effect by adding a shadow that is slightly lighter than the text.
-![img](text-shadow.png)
+![img](../images/text-shadow.png)
 * First Letter or Line(:first-letter, :first-line): You can specify different values for the first letter or first line of text inside an element using :first-letter and:first-line.
  #### Styling links:(:link, :visited)
  Browsers tend to show links in blue with an underline by default, and they will change the color of links that have been visited to help users know which pages they have been to.
@@ -118,4 +118,5 @@ bottom,text-bottom)
 3. :focus : This is applied when an element has focus. Any element that you can interact with, such as a link you can click on or any form control can have focus.
 #### Attributes Selectors:
 There are also a set of attribute selectors that allow you to create rules that apply to elements that have an attribute with a specific value.
-![img](attributes.png)
+
+![img](../images/attributes.png)
