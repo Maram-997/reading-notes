@@ -11,7 +11,7 @@ The first thing we need to do is download Chart.js. Copy the Chart.min.js out of
 >    `new Chart(buyers).Line(buyerData);`
 >   `</script>`
 5. Inside the same script tags we need to create our data: it’s an object that contains labels for the base of our chart and datasets to describe the values on the chart.
-6. Drawing a pie chart:First, we need the canvas element:
+6. Drawing a pie chart:First, we need the canvas element:V
 >`<canvas id="countries" width="600" height="400"></canvas>`
 7. Next, we need to get the context and to instantiate the chart:
 >`var countries= document.getElementById("countries").getContext("2d");`
