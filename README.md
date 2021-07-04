@@ -40,3 +40,4 @@
 |[Class 04](301/class-04.md)|
 |[Class 05](301/class-05.md)|
 |[Class 06](301/class-06.md)|
+|[Class 07](301/class-07.md)|
