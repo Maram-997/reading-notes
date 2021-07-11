@@ -45,3 +45,4 @@
 |[Class 09](301/class-09.md)|
 |[Class 10](301/class-10.md)|
 |[Class 11](301/class-11.md)|
+|[Class 12](301/class-12.md)|
