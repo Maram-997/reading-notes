@@ -11,6 +11,22 @@ REST, or **REpresentational State Transfer**, is an architectural style for prov
 
 > By using a REST interface, different clients hit the same REST endpoints, perform the same actions, and receive the same responses.
 
+## What is an identifer of a resource? Give an example:
+ The target of an HTTP request is called a "resource", whose nature isn't defined further; it can be a document, a photo, or anything else. Each resource is identified by a Uniform Resource Identifier (URI) used throughout HTTP for identifying resources.
+`www.example.com`
+
+## What are the most common HTTP verbs:
+The most common operations are GET, POST, PUT, PATCH, and DELETE.
+
+## What should the URIs be based on:
+resource URIs should be based on nouns (the resource) and not verbs (the operations on the resource).
+
+## Give an example of a good URI.
+https://adventure-works.com/`orders` // Good
+
+## What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing:
+try to avoid "chatty" web APIs that expose a large number of small resources. Such an API may require a client application to send multiple requests to find all of the data that it requires. Instead, you might want to denormalize the data and combine related information into bigger resources that can be retrieved with a single request.
+
 **Statelessness**
 Systems that follow the REST paradigm are stateless, meaning that the server does not need to know anything about what state the client is in and vice versa. In this way, both the server and the client can understand any message received, even without seeing previous messages. This constraint of statelessness is enforced through the use of resources, rather than commands. Resources are the nouns of the Web - they describe any object, document, or thing that you may need to store or send to other services.
 
