@@ -51,4 +51,6 @@
 |[Prep-Work](401/prep.md)|
 |[Class 01](401/class-01.md)|
 |[Class 02](401/class-02.md)|
+|[Class 03](401/class-03.md)|
+
 
