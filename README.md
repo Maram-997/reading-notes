@@ -52,5 +52,8 @@
 |[Class 01](401/class-01.md)|
 |[Class 02](401/class-02.md)|
 |[Class 03](401/class-03.md)|
+|[Class 04](401/class-04.md)|
+|[Class 05 - Linked List](401/class-05.md)|
+
 
 
