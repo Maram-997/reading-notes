@@ -1,0 +1,13 @@
+# Read - 11 :  Event Driven Applications
+## Why is access control important?
+The main purpose of access control is to provide security by allowing or restricting access to these resources by any party or individual. This is usually done as a security measure to protect those resources from unauthorized access or usage.
+## Describe an application that would need access control.
+Access control is a method of guaranteeing that users are who they say they are and that they have the appropriate access to company data.
+At a high level, access control is a selective restriction of access to data. It consists of two main components: authentication and authorization, which focuses on data security.
+Authentication is a technique used to verify that someone is who they claim to be. Authentication isn’t sufficient by itself to protect data. What’s needed is an additional layer, authorization, which determines whether a user should be allowed to access the data or make the transaction they’re attempting.
+## What is a role used for?
+An organization assigns a role-based access control role to every employee; the role determines which permissions the system grants to the user. For example, you can designate whether a user is an administrator, a specialist, or an end-user, and limit access to specific resources or tasks.
+## Why is role based access control more scalable than discretionary or mandatory access control?
+Role Based Access Control (RBAC), also known as Non discretionary Access Control, takes more of a real world approach to structuring access control. Access under RBAC is based on a user's job function within the organization to which the computer system belongs.
+Essentially, RBAC assigns permissions to particular roles in an organization. Users are then assigned to that particular role. For example, an accountant in a company will be assigned to the Accountant role, gaining access to all the resources permitted for all accountants on the system. Similarly, a software engineer might be assigned to the developer role.
+Roles differ from groups in that while users may belong to multiple groups, a user under RBAC may only be assigned a single role in an organization. Additionally, there is no way to provide individual users additional permissions over and above those available for their role. The accountant described above gets the same permissions as all other accountants, nothing more and nothing less.
