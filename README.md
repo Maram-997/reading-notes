@@ -64,3 +64,5 @@
 |[Class 15 - Trees](401/class-15.md)|
 |[Class 16](401/class-16.md)|
 |[Class 17](401/class-17.md)|
+|[Class 18](401/class-18.md)|
+|[Class 19](401/class-19.md)|
