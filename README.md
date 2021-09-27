@@ -72,3 +72,4 @@
 |[Class 30 - HashTables](401/class-30.md)|
 |[Class 31](401/class-31.md)|
 |[Class 32](401/class-32.md)|
+|[Class 33](401/class-33.md)|
