@@ -74,6 +74,7 @@
 |[Class 32](401/class-32.md)|
 |[Class 33](401/class-33.md)|
 |[Class 34](401/class-34.md)|
-|[Class 35 - Graphs](401/class-35.md)|
+|[Class 35 - Graphs](401/class-35.md|
 |[Class 36](401/class-36.md)|
 |[Class 37](401/class-37.md)|
+|[Class 38](401/class-38.md)|
